@@ -1,3 +1,8 @@
-To install packages from the requirements.txt file type in the terminal:
+**Raspberry pi 4 Web server project**
 
-pip freeze -r requirements.txt
+This repository contains the project that will be hosted on my personal web server hosted on a Raspberry Pi 4 Model.
+
+To install the packages needed, type in the terminal:
+
+    pip freeze -r requirements.txt
+
