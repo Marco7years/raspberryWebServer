@@ -1,3 +1,0 @@
-To install packages from the requirements.txt file type in the terminal:
-
-pip freeze -r requirements.txt
